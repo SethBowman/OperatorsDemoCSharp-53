@@ -42,7 +42,7 @@ class Program
         Console.WriteLine(--c); //pre decrement
 
         int d = 5;
-        Console.WriteLine(d--); //pre decrement
+        Console.WriteLine(d--); //post decrement
         Console.WriteLine(d);
         
         //relational operators
